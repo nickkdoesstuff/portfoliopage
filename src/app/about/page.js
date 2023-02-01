@@ -6,16 +6,16 @@ export default function About() {
             <div className="flex flex-col gap-4">
                 <div className="text-center">
                     <h1 className="font-bold text-3xl">About Me</h1>
-                    <p>Let's get to know each other</p>
+                    <p>Let&apos;s get to know each other</p>
                     <br />
                 </div>
             </div>
             <div className="text-center">
                 <h2 className="text-xl font-bold">Who are you?</h2>
-                <p>That's a good question! I'm Nick, a developer who likes to create projects for fun. <br />I have a passion for creating fun, quirky projects, which hopefully provide some form of utility to others</p>
+                <p>That&apos;s a good question! I&apos;m Nick, a developer who likes to create projects for fun. <br />I have a passion for creating fun, quirky projects, which hopefully provide some form of utility to others</p>
                 <br />
                 <h2 className="text-xl font-bold">What do you know?</h2>
-                <p>Here's a list of (pretty much) everything I am confident with!</p>
+                <p>Here&apos;s a list of (pretty much) everything I am confident with!</p>
                 <ul>
                     <li>• Javascript</li>
                     <li>• Typescript</li>
@@ -34,7 +34,7 @@ export default function About() {
                 <h2 className="text-xl font-bold">Can I see some of your projects?</h2>
                 <p>Yup! Head on over to my <Link href="/projects" className="underline">projects page</Link> to see some of my past work</p>
             </div>
-            
+
         </>
     )
 }

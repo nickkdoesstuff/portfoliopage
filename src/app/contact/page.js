@@ -20,7 +20,7 @@ export default function Contact() {
                     <li>• Email: nkirkwood46@gmail.com</li>
                 </ul>
                 <br />
-                <p>I'm looking forward to hearing from you soon!</p>
+                <p>I&apos;m looking forward to hearing from you soon!</p>
             </div>
             
         </>

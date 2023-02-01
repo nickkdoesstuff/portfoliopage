@@ -6,7 +6,7 @@ export default function Projects() {
             <div className="flex flex-col gap-4">
                 <div className="text-center">
                     <h1 className="font-bold text-2xl">My Projects</h1>
-                    <p>Here's what I've worked on before</p>
+                    <p>Here&apos;s what I&apos;ve worked on before</p>
                 </div>
 
                 <div className="text-center">
@@ -27,7 +27,7 @@ export default function Projects() {
                     <h2 className="font-bold text-xl">Tovy</h2>
                     <img src="https://i.imgur.com/63qrGH6.png" className="max-h-60 m-auto my-4 rounded-xl" />
                     <Link target={'_blank'} href="https://tovyblox.xyz/" className="italic underline opacity-80">https://tovyblox.xyz/</Link>
-                    <p>I'm currently helping with development of Tovy, a staff management tool aimed at ROBLOX group owners. <br /> My most recent task to date has been creating the "allies" feature, where users can add groups, assign allaince reps, and schedule visits with said alliance. <br />This is an ongoing project of mine, and you can view what I'm up to by viewing the link above.</p>
+                    <p>I&apos;m currently helping with development of Tovy, a staff management tool aimed at ROBLOX group owners. <br /> My most recent task to date has been creating the &apos;allies&apos; feature, where users can add groups, assign allaince reps, and schedule visits with said alliance. <br />This is an ongoing project of mine, and you can view what I&apos;m up to by viewing the link above.</p>
                 </div>
             </div>
         </>
